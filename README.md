@@ -35,10 +35,16 @@ This project demonstrates a login page with a canvas animation background. It in
 **2. Install the dependencies:**
 
   npm install
+
+  
 **3.  Run the backend server:**
 
   node backend/index.js 
+  
   or install nodemon, and cd over backend
+  
   nodemon index.js
+  
 **4. Run the React app:**
+
   npm start
