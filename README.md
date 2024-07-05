@@ -31,7 +31,7 @@ This project demonstrates a login page with a canvas animation background. It in
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Bharath-Sethuraman/Login.git
-   cd your-repository-name
+   cd Login
 **2. Install the dependencies:**
 
   npm install
